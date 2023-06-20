@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on an app for school control
+- 🔭 I’m currently working on an app for school management
 - 🌱 I’m currently learning Git, Dart/Flutter, Kotlin
 - 💬 Ask me about how to automate your workflows
 - 📫 How to reach me: fernando@forxon.com.br - whatsapp +55-61-99952-2606
