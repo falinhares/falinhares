@@ -1,4 +1,4 @@
-### Hi there, my name is Fernando Linhares and I work at Forxon [forxon.com.br](https://forxon.com.br)
+### Hi there, my name is Fernando Linhares and I work at [forxon.com.br](https://forxon.com.br)
 
 <!--
 **falinhares/falinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
